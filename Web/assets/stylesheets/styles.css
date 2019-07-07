@@ -1,0 +1,79 @@
+/*
+  --------------------------------------
+  Grid
+  --------------------------------------
+*/
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container{
+  margin: 0 auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  width: 960px;
+}
+
+/*
+  --------------------------------------
+  Typography
+  --------------------------------------
+*/
+h1,h3,h4,h5,p {
+  margin-bottom: 22px;
+}
+
+/*
+  --------------------------------------
+  Buttons
+  --------------------------------------
+*/
+
+.button{
+  border-radius: 15px;
+  display: inline-block;
+  margin: 0;
+}
+
+.button-alt{
+  border: 1px solid black;
+  padding: 15px 35px;
+}
+
+/*
+  --------------------------------------
+  Home
+  --------------------------------------
+*/
+
+body {
+  color: #888;
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/*
+.hero{
+  padding: 22px 80px 66px 80px;
+}
+
+.hero p {
+  font-size: 24px;
+  font-weight: 100;
+}
+
+.logo {
+  border-top: 4px solid #648880;
+  float: left;
+  font-size: 48px;
+  font-weight: 100;
+  letter-spacing: .5px;
+  line-height: 44px;
+  padding: 40px 0 22px 0;
+  text-transform: uppercase;
+}
+*/

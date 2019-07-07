@@ -1,0 +1,35 @@
+*{
+  box-sizing: border-box;
+}
+
+header{
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+
+section{
+  float: left;
+  width: 50%;
+  border-right: 1px hidden black;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+section img{
+  float: right;
+}
+
+aside{
+  float: right;
+  width: 50%;
+  border-left: 1px solid black;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+aside img{
+  float: right;
+}
+
+footer{
+  clear: both;
+  border-top: 1px solid black;
+}
